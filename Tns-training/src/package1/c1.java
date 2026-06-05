@@ -2,6 +2,7 @@ package package1;
 
 public class c1 {
 
+	
 	public int id=1;
 	private String name="aishu";
 	protected Boolean result=true; 

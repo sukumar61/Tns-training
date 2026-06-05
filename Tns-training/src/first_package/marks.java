@@ -8,13 +8,14 @@ class name extends id{
 	String nameis(){
 		return "aishu";
 	}
-
-public class myclass extends name {
+}
+public class marks extends name {
 
 	public static void main(String[] args) {
-		System.out.println(false);
-		myclass cls=new myclass();
-		cls.nameis();
+		marks nameinstance=new marks();
+		nameinstance.nameis();
+		nameinstance.id();
+		// TODO Auto-generated method stub
 
 	}
 
