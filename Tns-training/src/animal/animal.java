@@ -12,7 +12,7 @@ class cat extends behivar{
 	String bark="barks";
 	void barks() {
 		System.out.print("smiles");
-		super();
+
 		super.barks();
 	}
 
